@@ -236,7 +236,6 @@ function create_config( )
     "time",
     "location",
     "plugins",
-    "filter",
     "google",
     "left",
     "spm",
