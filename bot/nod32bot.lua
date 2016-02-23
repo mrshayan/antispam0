@@ -228,6 +228,7 @@ function create_config( )
     "leave_ban",
     "bot_manager",
     "anti_link",
+    "filter",
     "pok",
     "splugin",
     "filterorg",
@@ -338,6 +339,8 @@ tiger Commands list :
 لیست+ایدی همه اعضا
 !all
 دریافت اطلاعات کلی گروه
+!filter+[text]
+فیلتر کلمه
 !stats
 امار کلی گروه
 !mlist
