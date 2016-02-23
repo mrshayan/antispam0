@@ -236,6 +236,7 @@ function create_config( )
     "time",
     "location",
     "plugins",
+    "filter",
     "google",
     "left",
     "spm",
@@ -402,6 +403,8 @@ tiger Commands list :
 ایجاد لینک جدید
 !getlink
 نمایش لینک گروه
+!filter + { }
+فیلتر کلمه
 !linkpv
 فرستادن لینک گروه تو پیوی
 (حتما شماره ربات را سیو کنید)
